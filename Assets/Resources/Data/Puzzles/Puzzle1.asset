@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4400f6a70ff38664cba68d88f4799063, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Q
+    - T
+    - R
+    - U
+    - K
+    - U
+    - O
+    - B
+    - B
+    - H
+  - Size: 10
+    Row:
+    - P
+    - A
+    - B
+    - H
+    - H
+    - K
+    - H
+    - W
+    - A
+    - Q
+  - Size: 10
+    Row:
+    - H
+    - R
+    - F
+    - B
+    - U
+    - E
+    - D
+    - N
+    - Q
+    - C
+  - Size: 10
+    Row:
+    - H
+    - S
+    - K
+    - Y
+    - B
+    - B
+    - H
+    - W
+    - R
+    - T
+  - Size: 10
+    Row:
+    - W
+    - J
+    - T
+    - R
+    - U
+    - N
+    - G
+    - W
+    - Q
+    - M
+  - Size: 10
+    Row:
+    - M
+    - C
+    - A
+    - X
+    - C
+    - L
+    - O
+    - X
+    - H
+    - A
+  - Size: 10
+    Row:
+    - I
+    - X
+    - M
+    - E
+    - R
+    - S
+    - N
+    - N
+    - A
+    - N
+  - Size: 10
+    Row:
+    - S
+    - I
+    - E
+    - N
+    - X
+    - F
+    - Q
+    - E
+    - W
+    - C
+  - Size: 10
+    Row:
+    - W
+    - K
+    - H
+    - A
+    - N
+    - G
+    - A
+    - G
+    - F
+    - X
+  - Size: 10
+    Row:
+    - C
+    - P
+    - O
+    - J
+    - N
+    - A
+    - C
+    - L
+    - G
+    - O
+  SearchWords:
+  - Word: KHANG
+  - Word: HANH
+  - Word: NAM
+  - Word: HUNG
+  - Word: TRUNG

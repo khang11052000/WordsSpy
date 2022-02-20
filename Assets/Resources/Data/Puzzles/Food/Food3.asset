@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4400f6a70ff38664cba68d88f4799063, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - C
+    - C
+    - Z
+    - W
+    - T
+    - X
+    - B
+    - L
+    - X
+  - Size: 9
+    Row:
+    - X
+    - H
+    - Q
+    - J
+    - P
+    - A
+    - A
+    - C
+    - R
+  - Size: 9
+    Row:
+    - S
+    - V
+    - O
+    - M
+    - R
+    - Q
+    - N
+    - K
+    - J
+  - Size: 9
+    Row:
+    - J
+    - B
+    - Y
+    - C
+    - F
+    - F
+    - A
+    - Q
+    - C
+  - Size: 9
+    Row:
+    - U
+    - I
+    - L
+    - V
+    - O
+    - V
+    - N
+    - Q
+    - H
+  - Size: 9
+    Row:
+    - L
+    - G
+    - M
+    - G
+    - E
+    - L
+    - A
+    - D
+    - E
+  - Size: 9
+    Row:
+    - M
+    - E
+    - L
+    - O
+    - N
+    - F
+    - A
+    - R
+    - E
+  - Size: 9
+    Row:
+    - A
+    - H
+    - E
+    - O
+    - X
+    - P
+    - A
+    - T
+    - S
+  - Size: 9
+    Row:
+    - T
+    - E
+    - U
+    - J
+    - U
+    - B
+    - T
+    - X
+    - E
+  SearchWords:
+  - Word: CHOCOLATE
+  - Word: BANANA
+  - Word: CHEESE
+  - Word: MELON
